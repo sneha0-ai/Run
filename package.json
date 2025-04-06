@@ -1,0 +1,30 @@
+
+{
+  "name": "thomyorke",
+  "version": "1.0.0",
+  "description": "nice dream",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sneha0-ai/Run.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "git": "^0.1.5",
+    "jsonfile": "^6.1.0",
+    "moment": "^2.30.1",
+    "random": "^4.1.0",
+    "simple": "^0.2.0",
+    "simple-git": "^3.27.0"
+  },
+  "bugs": {
+    "url": "https://github.com/sneha0-ai/Run/issues"
+  },
+  "homepage": "https://github.com/sneha0-ai/Run#readme"
+}
